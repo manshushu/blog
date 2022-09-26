@@ -1,6 +1,7 @@
 ---
 title: "关于Gitpage的自定义域名"
 date: 2022-09-26T11:04:49+08:00
+lastmod: 2022-09-26T11:10:40+08:00
 draft: false
 description: "关于 MAN"
 author: "MAN"
@@ -24,3 +25,6 @@ lightgallery: true
 # 总结来说
 应该是workflow设置问题，每次推的时候要将cname一起推过去，同时要怎么设置我的dns？？
 
+# 已经解决！！！
+
+workflow中有关于cname的设置，这样每次推就不会有问题了！
