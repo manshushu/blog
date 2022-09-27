@@ -474,8 +474,8 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # Valine 评论系统设置 (https://github.com/xCss/Valine)
       [params.page.comment.valine]
         enable = true
-        appId = "QGzwQXOqs5JOhN4RGPOkR2mR-MdYXbMMI"
-        appKey = "WBmoGyJtbqUswvfLh6L8iEBr"
+        appId = "C5wJ2PT9bQEF4hYTILzVYdzu-gzGzoHsz"
+        appKey = "7jPowwqOBNZu1TyBo07oIKjk"
         placeholder = ""
         avatar = "mp"
         meta= ""
