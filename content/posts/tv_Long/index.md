@@ -1,7 +1,7 @@
 ---
 # weight: 2
 title: "龙年档案"
-date: 2022-11-8T15:02:10+08:00
+date: 2022-11-08T15:02:10+08:00
 # lastmod: 2022-09-27T16:45:40+08:00
 draft: false
 author: "MAN"
