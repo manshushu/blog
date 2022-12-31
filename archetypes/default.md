@@ -1,6 +1,10 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-draft: true
+draft: false
+tags: ["学习"]
+categories: ["学习"]
+
+lightgallery: true
 ---
 
