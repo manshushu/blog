@@ -1,5 +1,5 @@
 ---
-title: 
+title: ai测试
 date: 2023-04-16T19:25:06+08:00
 draft: false
 author: "MAN"
